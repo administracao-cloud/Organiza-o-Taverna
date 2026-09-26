@@ -1,0 +1,20 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/webhooks/ifood",
+      "destination": "/api/ifood/webhook"
+    },
+    {
+      "source": "/api/ifood/sync-active-orders",
+      "destination": "/api/ifood/polling"
+    },
+    {
+      "source": "/api/ifood/fetch-orders",
+      "destination": "/api/ifood/polling"
+    },
+    {
+      "source": "/((?!api/.*).*)",
+      "destination": "/index.html"
+    }
+  ]
+}

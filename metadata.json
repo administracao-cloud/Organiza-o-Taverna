@@ -1,0 +1,6 @@
+{
+  "name": "Saborê - Confeitaria e Panificação Artesanal",
+  "description": "Sistema integrado de logística, pedidos, fichas técnicas, compras, estoque, precificação dinâmica e controle financeiro para confeitaria e panificação artesanal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

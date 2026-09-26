@@ -1,0 +1,9 @@
+{
+  "paused": false,
+  "credentials": {
+    "clientId": "4a88619e-fe9a-42b5-b064-2f0f654c695b",
+    "clientSecret": "z4bdj1lw3ph19zbh5be7mzcgou4olajp8a4ms5r0602584gjs1tj8qocnacps0rqw6wjaq8ja9tz29fkwu1631mu5dwm1mgmhh2",
+    "merchantId": "51936e91-14f3-478d-b8ba-bc0f0e5e78d8",
+    "webhookSecret": ""
+  }
+}
